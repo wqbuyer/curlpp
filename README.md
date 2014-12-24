@@ -7,3 +7,5 @@ curlpp的主要特点是告别麻烦的设置过程，直面业务本身，在�
 
 curlpp统一了get/post请求的查询域的发送，统一使用参数数组参数$data发送请求数据集。无数据时用空数组即可。head和cookie也可以通过数组轻松设置。
 
+
+文档及下载地址：http://www.wqbuyer.com/demo/blog/4.html
